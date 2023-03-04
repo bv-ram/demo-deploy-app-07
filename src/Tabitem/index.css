@@ -1,0 +1,10 @@
+.tab-btn{
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+}
+.active-tab-btn{
+    background-color: blueviolet;
+    color: aliceblue;
+}

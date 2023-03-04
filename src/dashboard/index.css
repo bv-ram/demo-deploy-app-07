@@ -1,0 +1,11 @@
+
+.div{
+    background-image: url("https://mancunion.com/wp-admin/admin-ajax.php?action=kernel&p=image&src=file%3Dwp-content%252Fuploads%252Fsites%252F6%252F50257330623_a1d8d729d4_o.jpg%26type%3Dwebp%2C85%26thumbnail%3D2000%2C1218&hash=f7200f6d");
+    height: 1200px;
+    width: 2000px;
+}
+p{
+    color: azure;
+    text-align: center;
+    
+}
